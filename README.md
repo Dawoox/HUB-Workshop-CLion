@@ -1,4 +1,4 @@
-CLion: was is it and how to use it.
+CLion: what is it and how to use it.
 
 ## Why use it?
 
@@ -25,7 +25,7 @@ During this workshop we will use the free trial of CLion (of 30 days) but we wil
 During this workshop we will use this project as a template to test CLion utilities.
 First clone this repository on your laptop using your terminal (I recommend cloning your project in C in the CLionProjects repository at your home directory). Next launch CLion you should see the projects window :
 
-![](./doc/projects_window.png)
+![[projects_window.png]]
 
 Here click on 'Open' and select the folder you just cloned (and not it's content !).
 
@@ -62,5 +62,5 @@ Remember, everyone has a slight different IDE configuration, customize your conf
 This should be what your project look like at the end of this workshop:
 *The color highlighting is what we are looking after*
 
-![](./doc/file_tree_end_result.png)
+![[file_tree_end_result.png]]
 > `.direnv` and `.envrc` should be ignored
