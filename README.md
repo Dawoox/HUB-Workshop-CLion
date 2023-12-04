@@ -39,7 +39,7 @@ What's need to be done:
 * Configure the Makefile pipeline
 * Fix the program
 * Build and run
-And you can relax, you now know how to use CLion, but there is more !
+> And you can relax, you now know how to use CLion, but there is more !
 
 To improve your skills you can also:
 * Look at how the debugger works
@@ -59,7 +59,7 @@ Remember, everyone has a slight different IDE configuration, customize your conf
 
 #### End result:
 
-This should be what your project look like at the end of this workshop:
+This should be what your project look like at the end of this workshop:<br>
 *The color highlighting is what we are looking after*
 
 ![](./doc/file_tree_end_result.png)
